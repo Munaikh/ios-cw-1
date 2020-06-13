@@ -26,7 +26,15 @@ print("السلام عليكم، اسمي \(firendName) انا احب \(friendHo
 
 //المقارنة
 
-var age_difference = age > friendAge
+var age_difference = age - friendAge
 
 var height_difference = height < friendHeight
+
+var nameCheck = myname == firendName
+
+var hobby_check = friendHobby1 == hobby2
+
+
+
+
 
